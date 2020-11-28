@@ -9,5 +9,7 @@ Node.js,
 Php, 
 Go, 
 TypeScript, 
-Assembly, 
+Assembly
 </h3>
+<h2 align="center">Contact</h2>
+<h3 align="left">Contact me on discord: concatenation#0001</h3>
