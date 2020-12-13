@@ -1,7 +1,7 @@
 ## ConcatenationDev
-# Info
+## Info
 Hey, I'm concatenation, a full stack web developer, software developer and reverse engineering enthusiast.
-# Languages I usually use:
+## Languages I usually use:
 
 - PHP
 - NodeJS
@@ -12,9 +12,9 @@ Hey, I'm concatenation, a full stack web developer, software developer and rever
 - TypeScript
 - Assembly
 
-# Projects:
+## Projects:
 - I am currently a developer for a scripting utility for lua (https://psu.dev).
-# Hiring
+## Hiring
 - You can hire me on web development and software development at a certain price.
-# Contact
+## Contact
 - Discord: concat#8909 <@787071800910544926>
