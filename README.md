@@ -11,6 +11,7 @@ Hey, I'm concatenation, a full stack web developer, software developer and rever
 - C#
 - TypeScript
 - Assembly
+- Currently learning python.
 
 ## Projects:
 - I am currently a developer for a scripting utility for lua (https://psu.dev).
